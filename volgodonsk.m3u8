@@ -1,0 +1,15 @@
+#EXTM3U
+
+# Microel https://online.vdonsk.ru
+
+#EXTINF:-1,Путепровод
+https://cam.vdonsk.ru/v1/stream/morskaia-138-obzornaia/live/index.m3u8?token=s.4bb6dd73ce5307c9d89ac8daccbaaa56539fa9281
+
+#EXTINF:-1,пл. Комсомольская
+https://cam.vdonsk.ru/v1/stream/kt-komsomolets-entuziastov-20/live/index.m3u8?token=s.277ceb4b77181c55d2c4df19c04f671648823a7a1
+
+#EXTINF:-1,Набережная
+https://cam.vdonsk.ru/v1/stream/naberezhnaia-port/live/index.m3u8?token=s.c1406ae2047c80a75273a4f373bb89cabf79dd271
+
+#EXTINF:-1,Поликлиника №1
+https://cam.vdonsk.ru/v1/stream/lenina-103-pol-1/live/index.m3u8?token=s.a279eefa6713605c0a982e420cb55aabdf0275ad1
