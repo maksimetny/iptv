@@ -13,3 +13,9 @@ https://cam.vdonsk.ru/v1/stream/naberezhnaia-port/live/index.m3u8?token=s.c1406a
 
 #EXTINF:-1,Поликлиника №1
 https://cam.vdonsk.ru/v1/stream/lenina-103-pol-1/live/index.m3u8?token=s.a279eefa6713605c0a982e420cb55aabdf0275ad1
+
+#EXTINF:-1,перекрёсток ул. Весенняя / пр. Строителей
+https://cam.vdonsk.ru/v1/stream/vesenniaia-40/live/index.m3u8?token=s.1c1102345af1fe22aea942408d009d1ba70112d1196
+
+#EXTINF:-1,пл. ДК им. Курчатова (фонтан)
+https://cam.vdonsk.ru/v1/stream/dk-kurchatova-ploshchad/live/index.m3u8?token=s.59a81226aeaeeb106a59afc7158c9d98ded52ab41
